@@ -1,0 +1,17 @@
+This application will be a very simple Hello World Program. 
+
+It will ask me for my name and promptly print my name. 
+
+There will be two subfolders: 
+
+	GAME: 
+
+		Has the game files. 
+
+
+	EXPLOIT: 
+
+		My challenge is to reverse engineer a "hack" that will force my name to be Kiran no matter what. 
+
+
+
